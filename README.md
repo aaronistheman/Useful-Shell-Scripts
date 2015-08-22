@@ -1,11 +1,11 @@
 # Useful-Shell-Scripts
 
-This repository contains multiple shell scripts that I've found worth using in more than one repository. At least some of them involve Git and thus should be run from a Git console, such as Git Bash. Each shell script contains a description regarding how to use it.
+This repository contains multiple shell scripts that I've found worth using in multiple projects. At least some of them involve Git and thus should be run from a Git console, such as Git Bash. Each shell script contains a description regarding how to use it.
 
 Run
 ---
 
-Each script file contains a description about how to use it. At least some of them were made to be run from a Git console, such as Git Bash. For example, one could type the following in Git Bash.
+Each script file contains a description about how to use it. At least some of them were made to be run from a Git console, such as Git Bash. For example, one could type the following in Git Bash:
 
 ```script
   $ add-file.sh hello-world.txt
@@ -26,4 +26,4 @@ Contact Information
 
 My email address: aarons.7007@gmail.com
 
-My YouTube channel (in which I demonstrate finished applications): https://www.youtube.com/channel/UCHhcIcXErjijtAI9TWy7wNw/videos 
+My YouTube channel (in which I demonstrate my finished applications): https://www.youtube.com/channel/UCHhcIcXErjijtAI9TWy7wNw/videos 
