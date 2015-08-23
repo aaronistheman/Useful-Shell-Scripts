@@ -1,3 +1,5 @@
+#!/bin/sh
+#
 # @pre (optional) A file named open-my-files.bat exists in the same
 # folder as this file.
 # @post The file specified by the first argument has been given the name
