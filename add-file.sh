@@ -16,9 +16,9 @@ touch $1
 sed -i "s~exit~start Notepad++ $1\nexit~" open-my-files.bat
 
 # Unstage other changes
-git reset HEAD *
+# git reset HEAD *
 
 # Commit the additions
-git add $1
-git add open-my-files.bat
-git commit -m "Added new file: $1"
+# git add $1
+# git add open-my-files.bat
+# git commit -m "Added new file: $1"
