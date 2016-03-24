@@ -3,7 +3,7 @@
 
 noChanges=`git status | grep "nothing to commit" | wc -l`
 
-if [ $areChanges -eq 1 ]
+if [ $noChanges -eq 1 ]
 then 
   branch=`git branch | awk ' /*/ { print $2 } '`
   echo $branch
