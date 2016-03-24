@@ -1,4 +1,4 @@
-#!/bin/sh
+#! /bin/bash
 #
 # @param $1 old/current name of the file
 # @param $2 new name of the file

@@ -1,4 +1,4 @@
-#!/bin/sh
+#! /bin/bash
 #
 # @pre The todo list, contained in a file named "todo-list.txt", has
 # been updated.

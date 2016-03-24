@@ -1,4 +1,4 @@
-#!/bin/sh
+#! /bin/bash
 #
 # @param $1 name of the file to create.
 # @example add-file.sh hello-world.txt
