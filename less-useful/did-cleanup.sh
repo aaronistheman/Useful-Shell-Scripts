@@ -1,4 +1,4 @@
-#!/bin/sh
+#! /bin/bash
 #
 # @pre There are uncommitted changes.
 # @post A new Git commit announcing having cleaned up the code has been
