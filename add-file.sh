@@ -8,8 +8,9 @@ then # create the file with proper format
   echo "exit" > open-my-files.bat
 fi
 
-# Create the file
+# Create and open the file
 touch $1
+start Notepad++ $1
 
 # Edit the batch file that opens files (if applicable)
 sed -i "s~exit~start Notepad++ $1\nexit~" open-my-files.bat
